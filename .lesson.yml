@@ -1,0 +1,8 @@
+---
+title: "Simple Data Structure Drills"
+type: "challenge"
+visibility: "onsite"
+depends:  "rock-paper-scissors"
+description: "Array and Hash Data Structure Drills"
+ignore:
+- "simple-data-structure-drills.md"
